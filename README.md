@@ -21,4 +21,4 @@ Chrome icon:
 ![chrome icon](https://raw.github.com/tsamaya/ChromeGoogleTranslate/master/GTRANSL_APP/icon128.png)
 
 ## Thank's
-Many thanks to David Spriggs for [sample](the https://github.com/DavidSpriggs/ChromeWebAppJSAPI/)
+Many thanks to David Spriggs for the [Chrome App sample](https://github.com/DavidSpriggs/ChromeWebAppJSAPI/)
