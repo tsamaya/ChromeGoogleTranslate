@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"name": "Google Translate application",
+	"description": "Google Translate shortcup application.",
+	"version": "1.0",
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png",
+		"440": "Google-Translate-icon440.png"
+	},
+	"app": {
+		"urls": [
+				"http://translate.google.com/"
+		],
+		"launch": {
+			"web_url": "http://translate.google.com/"
+		}
+	},
+	"permissions": []
+}
